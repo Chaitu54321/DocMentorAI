@@ -1,0 +1,1 @@
+"""DocMentor AI application package."""
